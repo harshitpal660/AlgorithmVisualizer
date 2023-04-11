@@ -1,0 +1,95 @@
+/* nav bar */
+#logo{
+	width: 100%;
+	max-width: 500px;
+}
+/*Login button*/
+@media only screen and (max-width: 2500px) {
+  .login{
+	position: relative;
+	left: 73%;
+	}
+}
+@media only screen and (max-width: 2300px) {
+  .login{
+	position: relative;
+	left: 70%;
+	}
+}
+@media only screen and (max-width: 2100px) {
+  .login{
+	position: relative;
+	left: 65%;
+	}
+}
+@media only screen and (max-width: 1800px) {
+  .login{
+	position: relative;
+	left: 55%;
+	}
+}
+
+@media only screen and (max-width: 1500px) {
+  .login{
+	position: relative;
+	left: 50%;
+	}
+}
+@media only screen and (max-width: 1200px) {
+  .login{
+	position: relative;
+	left: 45%;
+	}
+}
+@media only screen and (max-width: 1100px) {
+  .login{
+	position: relative;
+	left: 40%;
+	}
+}
+@media only screen and (max-width: 950px) {
+  .login{
+	position: relative;
+	left: 30%;
+	}
+}
+@media only screen and (max-width: 850px) {
+  .login{
+	display: none;
+	}
+}
+
+ /*form element*/
+@media only screen and (max-width: 575px) {
+  .evaporate{
+	display: none;
+	}
+}
+
+@media only screen and (min-width: 350px) {
+  .search{
+		width: 50%;
+	}
+}
+@media only screen and (max-width: 350px) {
+  .search{
+		width: 130px;
+	}
+}
+@media only screen and (max-width: 250px) {
+  .search{
+		width: 100px;
+	}
+}
+
+@media only screen and (max-width: 150px) {
+  .search{
+		width: 40px;
+	}
+}
+
+/*footer*/
+.dark-text{
+	color: white;
+	font-size: 30px;
+}
